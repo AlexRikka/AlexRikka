@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome! Have a good day!
+![alt text](cat.gif)
 
 <!--
 **AlexRikka/AlexRikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
